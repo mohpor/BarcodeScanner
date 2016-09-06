@@ -34,11 +34,13 @@ public struct Info {
   public static var font = UIFont.boldSystemFontOfSize(14)
   public static var textColor = UIColor.blackColor()
   public static var tint = UIColor.blackColor()
+  public static var textAlignment = NSTextAlignment.Left
 
   public static var loadingFont = UIFont.boldSystemFontOfSize(16)
   public static var loadingTint = UIColor.blackColor()
 
   public static var notFoundTint = UIColor.redColor()
+  
 }
 
 /**

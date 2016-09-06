@@ -67,7 +67,7 @@ enum State {
       styles = (
         tint: Info.tint,
         font: Info.font,
-        alignment: .Left
+        alignment: Info.textAlignment
       )
     case .Processing:
       styles = (
